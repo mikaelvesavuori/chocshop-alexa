@@ -1,0 +1,107 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.d9efddf8-5c39-4ae3-8e32-676b9b5cabbe",
+    "application": {
+      "applicationId": "amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE3QJFZJGT65QOK2YBOTXKP23GAIAJFKPWJ2QT7A6TSBSP5GVQQ7OLQASQSPDU4NRKKLX3EUFXOCKA57ABLLZIZPSFDEJYAESJIVRZWA6SIGQBNLRMBMJCIRYJUDH5ANJOSNDYEJYJII6V566EQCNEYLHBNOMYVHI5NLEIY2ZXJYKBOMW6SZ7B25XPRA2HYUJSBXUZH4DRHL7RA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE3QJFZJGT65QOK2YBOTXKP23GAIAJFKPWJ2QT7A6TSBSP5GVQQ7OLQASQSPDU4NRKKLX3EUFXOCKA57ABLLZIZPSFDEJYAESJIVRZWA6SIGQBNLRMBMJCIRYJUDH5ANJOSNDYEJYJII6V566EQCNEYLHBNOMYVHI5NLEIY2ZXJYKBOMW6SZ7B25XPRA2HYUJSBXUZH4DRHL7RA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AHNNLPF5ECKK6XSSOEPXW4KCNDANS6HFJG3UHQZ4WH72YBOYVNDGVDI6BOFTFYX6MROWWN6CFRKVWJG7QRCJD5SIXOQKHBESBVXVX3VPPPPUAKT4LOFUDCS6WSDSS7L44C3VJQDGNG64RDANZDCTK5J6JP4FCH25ZY5KH5JV3XFJ7ZPXZCIVY",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjZjNDFkNDdiLWMyNDctNDBmNC1hMWM3LThhMTExYTc1ZWIwNiIsImV4cCI6MTU4Njg4NzA3NSwiaWF0IjoxNTg2ODg2Nzc1LCJuYmYiOjE1ODY4ODY3NzUsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDVmdXdlpiSC9PYWZpWUNoS0FCTlNxS3dFQUFBQUFBQUFjR3pSMkRrTWxjendiNjFyQnBoaTNPM3hiYlZGYWErQnBYeW1NTXBhb1c1Y2NqcUV6MGQ0dzFVZjl0OXRvS3F4TjJyb2xwSVNSZXh5RDNlNEU5WVFBaW05RDFHaGZDUjlmeXJIN285VkdDelBTclU0Mk1aQmxBUzY4N3p0aVhUNUF0alRiQWtaNmZSS0ZPTGRMZE5qYUhiSFRCLzVpQkZFWUErOXhxdXNhSnhDcDQ5ZU1BWXFSNXVKbFhDU3pmK1YwMmlkUW9IL0lTbWo1TW9KcW9HUkdGQkFWWFU1MWIzdVBKN05KNGJTQ1JhN2FCSHA2Vmx5OWd1dERQeEZ2RTcwMUI5Q2dGaC9mUWd0Ty9xajBFd3NDamdrbmExSmlWb3ZZUEh4aWZzTDRzV2orNUtNL3NLK2RhU3NUT3RhQktZbzB4czZ4Yk5zVjFWSTdRSVc0WjRVcW1OZGVmL2gxdXlaVzNYY0JTOXYvd2xjRjdmV2NDejVlVDdDRk1qWUJ5eXdZSDRMc285RFI1RXJoM2c9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFITk5MUEY1RUNLSzZYU1NPRVBYVzRLQ05EQU5TNkhGSkczVUhRWjRXSDcyWUJPWVZOREdWREk2Qk9GVEZZWDZNUk9XV042Q0ZSS1ZXSkc3UVJDSkQ1U0lYT1FLSEJFU0JWWFZYM1ZQUFBQVUFLVDRMT0ZVRENTNldTRFNTN0w0NEMzVkpRREdORzY0UkRBTlpEQ1RLNUo2SlA0RkNIMjVaWTVLSDVKVjNYRko3WlBYWkNJVlkiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRTNRSkZaSkdUNjVRT0syWUJPVFhLUDIzR0FJQUpGS1BXSjJRVDdBNlRTQlNQNUdWUVE3T0xRQVNRU1BEVTROUktLTFgzRVVGWE9DS0E1N0FCTExaSVpQU0ZERUpZQUVTSklWUlpXQTZTSUdRQk5MUk1CTUpDSVJZSlVESDVBTkpPU05EWUVKWUpJSTZWNTY2RVFDTkVZTEhCTk9NWVZISTVOTEVJWTJaWEpZS0JPTVc2U1o3QjI1WFBSQTJIWVVKU0JYVVpINERSSEw3UkEifX0.I_AI1h3Rm1mjVsyrsLFqfYPy_iaXtGglHCwHMdOd6vDDJoszlw7qSzyd9w_0uebiYy47LrMb9Tf750QpI2l4DvGwJSolxlhgZE9zzIAv0DYxCypM4VY5MYia_2udqQVdHsRJz8WoTXnQclZQSWwHt_166C6UA6KtSu2lYIkMIDwB-3mBRph07xYLyKDsi881z140Rtv043gbAccxxCIiVTpznMign6qfOStG8gN7SDC51rgRJWyx6xyRR_348pMHm9H62RQ22HeaHfniRD5rOAOdn3ty2U0reNh1o1n_sjlmgKlYvVYVxOtsQhwNh-DjHjcEzTAIP3_R6QNFbBHlvA"
+    },
+    "Viewport": {
+      "experiences": [
+        {
+          "arcMinuteWidth": 246,
+          "arcMinuteHeight": 144,
+          "canRotate": false,
+          "canResize": false
+        }
+      ],
+      "shape": "RECTANGLE",
+      "pixelWidth": 1024,
+      "pixelHeight": 600,
+      "dpi": 160,
+      "currentPixelWidth": 1024,
+      "currentPixelHeight": 600,
+      "touch": ["SINGLE"],
+      "video": {
+        "codecs": ["H_264_42", "H_264_41"]
+      }
+    },
+    "Viewports": [
+      {
+        "type": "APL",
+        "id": "main",
+        "shape": "RECTANGLE",
+        "dpi": 160,
+        "presentationType": "STANDARD",
+        "canRotate": false,
+        "configuration": {
+          "current": {
+            "video": {
+              "codecs": ["H_264_42", "H_264_41"]
+            },
+            "size": {
+              "type": "DISCRETE",
+              "pixelWidth": 1024,
+              "pixelHeight": 600
+            }
+          }
+        }
+      }
+    ]
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.db204982-34e0-4322-a3da-7a6de6c8aca5",
+    "timestamp": "2020-04-14T17:52:55Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "GetProductStockStatus",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "product": {
+          "name": "product",
+          "value": "pralines",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06.PRODUCTS",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "pralines",
+                      "id": "pralines"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        }
+      }
+    }
+  }
+}

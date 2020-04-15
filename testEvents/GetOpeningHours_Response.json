@@ -1,0 +1,26 @@
+{
+  "body": {
+    "version": "1.0",
+    "response": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>We are open between 8 am and 6 pm Monday to Friday, and from 10 am to 4 pm on the Weekends.</speak>"
+      },
+      "card": {
+        "type": "Simple",
+        "title": "This is the Title of the Card",
+        "content": "This is the card content. This card just has plain text content.\r\nThe content is formated with line breaks to improve readability."
+      },
+      "reprompt": {
+        "outputSpeech": {
+          "type": "SSML",
+          "ssml": "<speak></speak>"
+        }
+      },
+      "shouldEndSession": false,
+      "type": "_DEFAULT_RESPONSE"
+    },
+    "sessionAttributes": {},
+    "userAgent": "ask-node/2.8.0 Node/v12.16.1"
+  }
+}

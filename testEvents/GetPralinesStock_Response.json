@@ -1,0 +1,26 @@
+{
+  "body": {
+    "version": "1.0",
+    "response": {
+      "outputSpeech": {
+        "type": "SSML",
+        "ssml": "<speak>pralines is in stock</speak>"
+      },
+      "card": {
+        "type": "Simple",
+        "title": "ChocShop product availability",
+        "content": "pralines is in stock"
+      },
+      "reprompt": {
+        "outputSpeech": {
+          "type": "SSML",
+          "ssml": "<speak></speak>"
+        }
+      },
+      "shouldEndSession": false,
+      "type": "_DEFAULT_RESPONSE"
+    },
+    "sessionAttributes": {},
+    "userAgent": "ask-node/2.8.0 Node/v12.16.1"
+  }
+}

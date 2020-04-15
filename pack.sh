@@ -1,0 +1,1 @@
+zip -r lambda.zip node_modules/ index.js package.json

@@ -1,0 +1,40 @@
+# GetOpeningHours
+are you open
+when are you open
+are you open now
+when do you close
+what's your opening hours
+do you happen to be open right now
+are you open on monday
+are you open on tuesday
+are you open on wednesday
+are you open on thursday
+are you open on friday
+are you open on saturday
+are you open on sunday
+
+# GetProducts
+what products do you have
+what do you offer
+what do you keep
+what do you stock
+what do you sell
+what are you selling
+what can i buy
+anything worth buying
+do you sell chocolate
+what's in store
+what do you have
+
+# GetProductStockStatus
+is {product} available
+can i buy {product}
+do you keep {product}
+do you have {product} in stock
+is {product} in stock
+are {product} in stock
+
+# GetProductPrice
+what's your price for {product}
+how much is {product}
+what does {product} cost

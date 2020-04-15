@@ -1,0 +1,113 @@
+{
+  "version": "1.0",
+  "session": {
+    "new": false,
+    "sessionId": "amzn1.echo-api.session.d9efddf8-5c39-4ae3-8e32-676b9b5cabbe",
+    "application": {
+      "applicationId": "amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06"
+    },
+    "user": {
+      "userId": "amzn1.ask.account.AE3QJFZJGT65QOK2YBOTXKP23GAIAJFKPWJ2QT7A6TSBSP5GVQQ7OLQASQSPDU4NRKKLX3EUFXOCKA57ABLLZIZPSFDEJYAESJIVRZWA6SIGQBNLRMBMJCIRYJUDH5ANJOSNDYEJYJII6V566EQCNEYLHBNOMYVHI5NLEIY2ZXJYKBOMW6SZ7B25XPRA2HYUJSBXUZH4DRHL7RA"
+    }
+  },
+  "context": {
+    "System": {
+      "application": {
+        "applicationId": "amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06"
+      },
+      "user": {
+        "userId": "amzn1.ask.account.AE3QJFZJGT65QOK2YBOTXKP23GAIAJFKPWJ2QT7A6TSBSP5GVQQ7OLQASQSPDU4NRKKLX3EUFXOCKA57ABLLZIZPSFDEJYAESJIVRZWA6SIGQBNLRMBMJCIRYJUDH5ANJOSNDYEJYJII6V566EQCNEYLHBNOMYVHI5NLEIY2ZXJYKBOMW6SZ7B25XPRA2HYUJSBXUZH4DRHL7RA"
+      },
+      "device": {
+        "deviceId": "amzn1.ask.device.AHNNLPF5ECKK6XSSOEPXW4KCNDANS6HFJG3UHQZ4WH72YBOYVNDGVDI6BOFTFYX6MROWWN6CFRKVWJG7QRCJD5SIXOQKHBESBVXVX3VPPPPUAKT4LOFUDCS6WSDSS7L44C3VJQDGNG64RDANZDCTK5J6JP4FCH25ZY5KH5JV3XFJ7ZPXZCIVY",
+        "supportedInterfaces": {}
+      },
+      "apiEndpoint": "https://api.amazonalexa.com",
+      "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjZjNDFkNDdiLWMyNDctNDBmNC1hMWM3LThhMTExYTc1ZWIwNiIsImV4cCI6MTU4Njg4Njk5NiwiaWF0IjoxNTg2ODg2Njk2LCJuYmYiOjE1ODY4ODY2OTYsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDVmdXdlpiSC9PYWZpWUNoS0FCTlNxS3dFQUFBQUFBQUE1VS9kcFV2Z2lNQkV0ZGp3VVRYSXQ4b01yTmdsaXNKTXBkc3gzSnRhM3NmcnF4NzkyY29reGp4T0h1Q0J6TnhOeGFNVTNwZ1B2QVZpbmZkdmVkR2RXL2RrRWZiS1JHR01seHpnQUh3NzUyMmhHMEJQMVhIU1cwd05obWRFRXVKQk1hV3JzTE95NUgyV1ZMR0hISDdZaTRNRmpMa3JaT2JuTlQxc1VMYjVNUWdUeDJFN3JIV1R5TTdyTUFET2ZPa1F0elZTT1BrbXhuL1RNSnMzZFVnTHNzSDRqYjRDMmFYYVNZZjdWeWpZUXhmSWNTNE1pQU94ZUNSMUlIc3d2TUpBcEFLRU9MbWNiY1FmbjRjS2RyTFgxSlprMUZnUDdJU2ZQVGZ1UjViaWtldzhxWFEyUGJWL2pld3p1SkwzdmlnU3JYakFFWVRhbXFNWUgzaUoySzc0WERyQk5NZnFsalJHRVF6emlRSnNkUzE3eVdzUlJ1TXJXUnltUWgxOHJ5V0lvd0lnR3ZkamxaaE1tVFE9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFITk5MUEY1RUNLSzZYU1NPRVBYVzRLQ05EQU5TNkhGSkczVUhRWjRXSDcyWUJPWVZOREdWREk2Qk9GVEZZWDZNUk9XV042Q0ZSS1ZXSkc3UVJDSkQ1U0lYT1FLSEJFU0JWWFZYM1ZQUFBQVUFLVDRMT0ZVRENTNldTRFNTN0w0NEMzVkpRREdORzY0UkRBTlpEQ1RLNUo2SlA0RkNIMjVaWTVLSDVKVjNYRko3WlBYWkNJVlkiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BRTNRSkZaSkdUNjVRT0syWUJPVFhLUDIzR0FJQUpGS1BXSjJRVDdBNlRTQlNQNUdWUVE3T0xRQVNRU1BEVTROUktLTFgzRVVGWE9DS0E1N0FCTExaSVpQU0ZERUpZQUVTSklWUlpXQTZTSUdRQk5MUk1CTUpDSVJZSlVESDVBTkpPU05EWUVKWUpJSTZWNTY2RVFDTkVZTEhCTk9NWVZISTVOTEVJWTJaWEpZS0JPTVc2U1o3QjI1WFBSQTJIWVVKU0JYVVpINERSSEw3UkEifX0.RB0fPtJHTwEECk6aQjUhEqUiWe80VqqeJbbaRE8DQVQ-3pSlg9DGqDfJV9rww2rRk2Rm29ocdm7DQvlJ9GJnoHSuUQ5pmnW1hdy_6wzn6eF1pBgFNZrIzc8AKqCA5Um3mE-WA-NK10E9Xjm8CPt5Tdm6hdWzamGzSWcqdWeRDe18ArOX7BoCKMYipoyELnjooVHjnZbtUa9Obql_d73HzTQHd3-LiKHrJLfZgXhfkqpCfjAh7IfuXMfDcHbQFuB_UUK_e_8VToSBfL-_CZi6Ip4-BQs5bvKNLcRF2Snu3p9HoBbqql8YxbJ908JxqkamLbBFiAJlX1rMkqSvRA88dg"
+    },
+    "Viewport": {
+      "experiences": [
+        {
+          "arcMinuteWidth": 246,
+          "arcMinuteHeight": 144,
+          "canRotate": false,
+          "canResize": false
+        }
+      ],
+      "shape": "RECTANGLE",
+      "pixelWidth": 1024,
+      "pixelHeight": 600,
+      "dpi": 160,
+      "currentPixelWidth": 1024,
+      "currentPixelHeight": 600,
+      "touch": ["SINGLE"],
+      "video": {
+        "codecs": ["H_264_42", "H_264_41"]
+      }
+    },
+    "Viewports": [
+      {
+        "type": "APL",
+        "id": "main",
+        "shape": "RECTANGLE",
+        "dpi": 160,
+        "presentationType": "STANDARD",
+        "canRotate": false,
+        "configuration": {
+          "current": {
+            "video": {
+              "codecs": ["H_264_42", "H_264_41"]
+            },
+            "size": {
+              "type": "DISCRETE",
+              "pixelWidth": 1024,
+              "pixelHeight": 600
+            }
+          }
+        }
+      }
+    ]
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "amzn1.echo-api.request.acb54528-a6dd-4616-ae3a-833eb655925b",
+    "timestamp": "2020-04-14T17:51:36Z",
+    "locale": "en-US",
+    "intent": {
+      "name": "GetProductPrice",
+      "confirmationStatus": "NONE",
+      "slots": {
+        "product": {
+          "name": "product",
+          "value": "cake",
+          "resolutions": {
+            "resolutionsPerAuthority": [
+              {
+                "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.6c41d47b-c247-40f4-a1c7-8a111a75eb06.PRODUCTS",
+                "status": {
+                  "code": "ER_SUCCESS_MATCH"
+                },
+                "values": [
+                  {
+                    "value": {
+                      "name": "cake",
+                      "id": "cake"
+                    }
+                  },
+                  {
+                    "value": {
+                      "name": "brownies",
+                      "id": "brownies"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          "confirmationStatus": "NONE",
+          "source": "USER"
+        }
+      }
+    }
+  }
+}

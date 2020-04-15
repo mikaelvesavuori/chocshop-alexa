@@ -1,0 +1,1 @@
+aws sts get-session-token --duration-seconds 14400 --profile [NAME]
